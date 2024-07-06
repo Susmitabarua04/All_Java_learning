@@ -1,0 +1,6 @@
+[submodule "CLOCK"]
+	path = CLOCK
+	url = /CLOCK
+[submodule "karmashetra"]
+	path = karmashetra
+	url = /karmashetra
